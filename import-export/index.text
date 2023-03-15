@@ -1,0 +1,8 @@
+1-In general, import is the preferred way to load modules in modern JavaScript code,
+especially for browser-based development.However, require is still widely used in
+Node.js and in legacy codebases.
+
+2-with the --experimental-modules flag.
+
+3-__dirname & __filename
+
