@@ -1,0 +1,11 @@
+Node.js has three things that client-side JavaScript doesn't have:
+1-Access to the file system
+2-Better control over HTTP requests
+3-Ability to create command-line tools
+
+Client-side JavaScript has three things that Node.js doesn't have:
+1-Access to the DOM
+2-Browser events
+3-Support for multiple threads
+
+
